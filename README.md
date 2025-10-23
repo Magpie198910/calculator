@@ -1,2 +1,1 @@
-# calculator
-계산기 프로그램
+#2025. 10. 23 : cheekout, reset
